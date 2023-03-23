@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Barbour County NAACP
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: "NAACP Unit 5075, serving Barbour County, Alabama"
+intro_image: "images/swearing-in.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Barbour County NAACP
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Join us to ...
