@@ -1,7 +1,7 @@
 ---
-title: Contact
+title: Join
 layout: contact
-description: Contact
+description: Join
 ---
 
 TODO
