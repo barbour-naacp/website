@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Barbour County NAACP
+# NAACP Barbour County Branch
 
-Join us to ...
+Join us to ________________

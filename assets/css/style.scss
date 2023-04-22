@@ -17,8 +17,8 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: "Playfair Display", serif, -apple-system;
+$font-family-base: Verlag A,Verlag B,Verlag,Helvetica,Arial,sans-serif;
+$font-family-heading: Verlag A,Verlag B,Verlag,Helvetica,Arial,sans-serif;
 
 // Footer
 $footer-background-color: $primary;
@@ -76,4 +76,8 @@ body {
  */
 .hero-cta {
   margin-top: 36px;
+}
+
+h1, h2 {
+  text-transform: uppercase;
 }
