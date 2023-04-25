@@ -10,4 +10,4 @@ show_call_box: true
 
 # NAACP Barbour County Branch
 
-Join us to ________________
+Join us to _________________
