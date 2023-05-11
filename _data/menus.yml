@@ -1,7 +1,4 @@
 main:
-  - name: "What we do"
-    url: "/what-we-do/"
-    weight: 2
   - name: "About us"
     url: "/about/"
     weight: 3
