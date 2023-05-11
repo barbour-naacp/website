@@ -10,7 +10,7 @@ weight: 7
 
 Voting is becoming more difficult in Alabama and many people of color are registered but are not voting in general elections. 
 
-![members being sworn in](/images/swearing-in.jpg)
+![members being sworn in](/images/swearing-in.png)
 
 ## What we are doing
 
