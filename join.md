@@ -22,9 +22,11 @@ You can complete payment in one of three ways:
 - Cash App (Our Cashtag is `$5075n`)
 - Mail a check to: 
   
-NAACP Branch 5075 
-Post Office Box 1615
-Eufaula, AL 36072
+> NAACP Branch 5075 
+> 
+> Post Office Box 1615
+> 
+> Eufaula, AL 36072
 
 (Checks should be made out to NAACP Branch 5075. Include the word “dues” on your check.)
 
