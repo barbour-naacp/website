@@ -11,3 +11,11 @@ Barbour County Branch 5075 of the NAAACP is looking for people of goodwill who b
 
 The [NAACP](https://naacp.org/) (National Association for the Advancement of Colored People) was founded in 1909 by a group of concerned citizens who felt that formerly enslaved people and their families were being treated unfairly. Of some 60 founding members of the NAACP only seven were black including W.E.B. DuBois, Ida B. Wells and Mary Church Terrell. Historically the organization has been a key voice in helping overturn Jim Crow laws, supporting the integration of the armed forces, and advancing voting rights. The NAACP has been a leader in the fight for Civil Rights with over 500,000 members worldwide.
 
+## Officers
+
+- *President:* Jewel Harris 
+- *Vice President:* Moe Erkins 
+- *Sec.:* Zaneta Daniels 
+- *Asst Sec.:* Mildred Harris 
+- *Treasurer:* Gene Harris
+- *Asst Treasurer:* Alice Ivey
